@@ -1,0 +1,7 @@
+output/
+preview.png
+__pycache__/
+*.pyc
+verify*/
+test_*/
+v2/
